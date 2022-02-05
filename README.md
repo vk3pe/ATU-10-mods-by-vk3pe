@@ -10,7 +10,7 @@ Boards were ordered and assembled and tested, a small problem was found in my sc
 
 Initial Gerbers were for smd parts of 0603 footpint but a later version V1.3x that I made, uses easier to solder 0805 parts in place of the 0603'.
 
-Currently (Feb 2022) Kees K5BCQ, has available a small batch of ATU-10 made from my Gerber files.
+Currently (Feb 2022) Kees K5BCQ, has available a small batch of ATU-10 PCB's made from my Gerber files.
 
 My web page with more information on my take on the N7DDC ATU-10 is here. http://www.carnut.info/ATU_N7DDC/ATU-10/ATU-10%20build.html
 
